@@ -52,6 +52,6 @@ Focused on on-time delivery, user experience, and app optimization
 
 📫 Connect with Me
 
-📩 Email: your.email@example.com🔗 GitHub: github.com/aruninf💼 LinkedIn: Your LinkedIn Profile
+📩 Email: aruninf@infinitysoftsystems.com  🔗 GitHub: github.com/aruninf
 
 Let's build amazing mobile applications together! 🚀
