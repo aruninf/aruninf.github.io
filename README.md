@@ -26,7 +26,7 @@ Project management for construction businesses
 
 Real-time tracking and updates
 
-🐠 Your Fish [https://docs.google.com/document/d/1bl66Xz8XZJlNAPH3Lb2CCBfJ_h2u76s0ACIYWVDTnqY/edit?usp=sharing]
+(🐠 Your Fish)[https://docs.google.com/document/d/1bl66Xz8XZJlNAPH3Lb2CCBfJ_h2u76s0ACIYWVDTnqY/edit?usp=sharing]
 
 Social media platform for fishing enthusiasts
 
